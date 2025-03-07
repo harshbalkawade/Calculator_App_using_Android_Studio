@@ -12,7 +12,7 @@ This is a basic **Android Calculator App** built using **Android Studio**. It al
 - Lightweight and efficient performance
 
 ## 🛠 Technologies Used
-- **Java/Kotlin** (Specify which one you used)
+- **Java
 - **XML** for UI design
 - **Android Studio**
 
