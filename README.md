@@ -24,9 +24,6 @@ This is a basic **Android Calculator App** built using **Android Studio**. It al
 2. **Open the project** in **Android Studio**
 3. **Build and run** on an emulator or a physical device
 
-## 📷 Screenshots (Optional)
-Include screenshots of your app here if available.
-
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
 
